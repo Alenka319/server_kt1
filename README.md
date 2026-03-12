@@ -29,7 +29,7 @@ npm install
 
 ## 3. Запуск сервера
 bash
-npm start
+npm start или же node server.js
 После запуска в терминале появится сообщение:
 Сервер запущен на http://localhost:3000
 
